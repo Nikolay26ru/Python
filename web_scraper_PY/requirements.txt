@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+sqlite3
+pytest
+black
+flake8

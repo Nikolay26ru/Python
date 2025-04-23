@@ -1,0 +1,6 @@
+aiogram
+sqlite3
+pytest
+black
+flake8
+python-dotenv
